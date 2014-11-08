@@ -1,0 +1,15 @@
+frmMain = -22, -5, 859, 538, , 201, 12, 707, 529, C
+modLocalize = 0, 0, 0, 0, C
+modIcon = 0, 0, 0, 0, C
+modMain = 0, 0, 0, 0, C
+modOpenDialog = 0, 0, 0, 0, C
+modSaveDialog = 0, 0, 0, 0, C
+modErrorHandler = 0, 0, 0, 0, C
+frmAbout = 50, 138, 651, 624, C, 66, 87, 667, 573, C
+clsDownload = 0, 0, 0, 0, C
+frmUpdate = 0, 0, 0, 0, C, 44, 58, 645, 544, C
+modMsgBox = 0, 0, 0, 0, C
+modLocalizedIDs = 66, 87, 667, 573, C
+modMisc = 0, 0, 0, 0, C
+frmPatchInfo = 0, 0, 0, 0, C, 88, 116, 689, 602, C
+cStringBuilder = 0, 0, 0, 0, C

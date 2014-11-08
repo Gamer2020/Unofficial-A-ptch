@@ -3,4 +3,4 @@ Unoffical-A-ptch
 
 Created by HackMew 
 
-Slightly improved A-ptch!
+Can now patch GB/GBC games!
